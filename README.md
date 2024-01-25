@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purnikaah
-- 👀 I’m interested in watching i90s movies
+- 👀 I’m interested in watching 90s movies
 - 🌱 I’m currently learning reactjs
 - ⚡ Fun fact: i love biology but i am an IT student
 
